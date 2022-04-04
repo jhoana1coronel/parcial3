@@ -54,7 +54,7 @@ window.addEventListener('load', ()=> {
                       break;
                     case 'Drizzle':
                       iconoAnimado.src='animated/rainy-2.svg'
-                      console.log('LLOVIZNA');
+                      console.log('Granizo');
                       break;
                     case 'Rain':
                       iconoAnimado.src='animated/rainy-7.svg'
